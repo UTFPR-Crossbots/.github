@@ -1,2 +1,2 @@
-# .github
+# Crossbots
 team profile
